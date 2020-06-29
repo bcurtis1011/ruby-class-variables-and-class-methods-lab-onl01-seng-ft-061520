@@ -20,4 +20,5 @@ class Song
   
   def self.artists
     @@artists.uinq
+  end
 end
