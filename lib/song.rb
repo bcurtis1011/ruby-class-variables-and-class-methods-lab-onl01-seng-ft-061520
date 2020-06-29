@@ -18,7 +18,7 @@ class Song
   
   def artist=(artist)
     @artist
-    @@artist << artist
+    #@@artist << artist
   end
   
   def genre=(genre)
